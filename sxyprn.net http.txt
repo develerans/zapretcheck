@@ -1,1 +1,0 @@
-nfqws --dpi-desync=fakedsplit --dpi-desync-fooling=badseq --dpi-desync-badseq-increment=0 --dpi-desync-split-pos=midsld
